@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "270675007074",
+    "firebase_url": "https://clothassist-28e37-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "clothassist-28e37",
+    "storage_bucket": "clothassist-28e37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270675007074:android:653414eb0d275598dfe33b",
+        "android_client_info": {
+          "package_name": "com.clothassist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKqWNB1hlggtmqijxdIiVu5APKmfPmFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270675007074:android:ebe678a1b975662cdfe33b",
+        "android_client_info": {
+          "package_name": "com.clothassistv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKqWNB1hlggtmqijxdIiVu5APKmfPmFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270675007074:android:d72a7ee9fdb4d467dfe33b",
+        "android_client_info": {
+          "package_name": "com.clothassistv3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKqWNB1hlggtmqijxdIiVu5APKmfPmFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<!-- res/layout/nav_header.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:text=""
+        android:textSize="18sp"
+        android:background="#014478"
+        android:textColor="@android:color/white"/>
+</LinearLayout>

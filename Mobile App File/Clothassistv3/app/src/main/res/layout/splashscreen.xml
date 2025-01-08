@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:andriod="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/splashcreenmotion"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#014478"
+    android:orientation="vertical"
+    andriod:layoutDescription="@xml/splashscreen_scene"
+    tools:context=".SplashScreen">
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="264dp"
+        android:layout_marginBottom="18dp"
+        android:importantForAccessibility="no"
+        android:src="@drawable/logoclothassist"
+        andriod:layout_constraintBottom_toTopOf="@+id/PBloading"
+        andriod:layout_constraintEnd_toEndOf="parent"
+        andriod:layout_constraintHorizontal_bias="0.497"
+        andriod:layout_constraintStart_toStartOf="parent"
+        andriod:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.motion.widget.MotionLayout>
