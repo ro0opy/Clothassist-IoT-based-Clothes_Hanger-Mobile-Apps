@@ -7,14 +7,14 @@
 #include <WebServer.h>
 
 // Firebase credentials
-#define FIREBASE_URL "https://clothassist-28e37-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define FIREBASE_API "AIzaSyCRKqWNB1hlggtmqijxdIiVu5APKmfPmFY"
-#define USER_EMAIL "shazreenaffandi@gmail.com"
-#define USER_PASSWORD "123456789"
+#define FIREBASE_URL ""
+#define FIREBASE_API ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // Wi-Fi credentials
-const char* ssid = "Ruben Phandiel";
-const char* password = "shaz358894";
+const char* ssid = "";
+const char* password = "";
 
 #define RAIN_SENSOR_PIN        25
 #define ANALOG_RAIN_SENSOR_PIN 34
