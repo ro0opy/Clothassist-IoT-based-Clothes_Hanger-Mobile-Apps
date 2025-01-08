@@ -7,14 +7,14 @@
 #include <WebServer.h>
 
 // Firebase credentials
-#define FIREBASE_URL ""
-#define FIREBASE_API ""
-#define USER_EMAIL ""
-#define USER_PASSWORD ""
+#define FIREBASE_URL " "
+#define FIREBASE_API " "
+#define USER_EMAIL " "
+#define USER_PASSWORD " "
 
 // Wi-Fi credentials
-const char* ssid = "";
-const char* password = "";
+const char* ssid = " ";
+const char* password = " ";
 
 #define RAIN_SENSOR_PIN        25
 #define ANALOG_RAIN_SENSOR_PIN 34
